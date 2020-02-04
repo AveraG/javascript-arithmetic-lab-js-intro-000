@@ -13,3 +13,11 @@ function multiply() {
 function divide() {
   return  5.0 / 2.5
 }
+
+function increment(n) {
+  return n++
+}
+
+function decrement(n) {
+  return n--
+}
